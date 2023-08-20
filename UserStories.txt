@@ -1,0 +1,10 @@
+1. As a poster I want to be able to post my private prayer intentions for future reference
+2. As a poster I want to be able to post my public prayer intentions for future reference and for others to see
+3. As a poster I want to be able to comment and provide updates on my publically posted prayer intentions
+
+4. As a viewer I want to be able to view my own prayer intentions so I can reference them while praying
+5. As a viewer I want to be able to view other people's prayer intentions so I can include their intentions in my prayers
+
+6. As a commenter I want to be able to comment on people's public prayer intentions so that I can share my good thoughts with them
+
+7. As a follower I want to be able to follow prayer intentions for updates from the poster
