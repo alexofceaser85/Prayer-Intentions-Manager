@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{271F20D1-D92E-4196-AF1D-F3494007E968}"
 	ProjectSection(SolutionItems) = preProject
-		UserStories.txt = UserStories.txt
+		Documentation\UserStories.txt = Documentation\UserStories.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerTests", "Tests\ServerTests\ServerTests.csproj", "{22E8E8BB-C4C5-426F-BEBD-F5A82D2C127C}"
