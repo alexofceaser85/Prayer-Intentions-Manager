@@ -4,7 +4,8 @@
 
 4. As a viewer I want to be able to view my own prayer intentions so I can reference them while praying
 5. As a viewer I want to be able to view other people's prayer intentions so I can include their intentions in my prayers
+6. As a viewer I want to add prayer requests to a collection so that when I pray I can pray over one organized collection of requests (Should include common prayers as a collection too)
 
-6. As a commenter I want to be able to comment on people's public prayer intentions so that I can share my good thoughts with them
+7. As a commenter I want to be able to comment on people's public prayer intentions so that I can share my good thoughts with them
 
-7. As a follower I want to be able to follow prayer intentions for updates from the poster
+8. As a follower I want to be able to follow prayer intentions for updates from the poster
